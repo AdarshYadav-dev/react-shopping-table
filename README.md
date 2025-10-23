@@ -1,21 +1,21 @@
-# 🛒 Shopping Table (React + Vite)
+#  Shopping Table (React + Vite)
 
 A simple and elegant shopping cart table built with **React.js** and **Vite**.  
 It displays product colors, availability, prices, and allows quantity input — with a clean, responsive design.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ⚡ Built with **Vite + React** for fast development  
-- 💅 Styled with custom CSS (responsive and modern)  
-- 🎨 Multiple color options shown as visual swatches  
-- 📱 Fully responsive for mobile and desktop  
-- 🧮 Easy to extend with subtotal or total price logic  
+- Built with **Vite + React** for fast development  
+- Styled with custom CSS (responsive and modern)  
+- Multiple color options shown as visual swatches  
+- Fully responsive for mobile and desktop  
+- Easy to extend with subtotal or total price logic  
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 - **React 18+**
 - **Vite**
@@ -23,7 +23,7 @@ It displays product colors, availability, prices, and allows quantity input — 
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 Clone the repository and install dependencies:
 
